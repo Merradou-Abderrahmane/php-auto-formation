@@ -1,5 +1,4 @@
 <?php
-$txt = " hello world";
-echo $txt;
+echo "Hello world";
 
 ?>
