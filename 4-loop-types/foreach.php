@@ -26,16 +26,4 @@
         echo $key . " => " .$value . "<br>";
     }
 
-// $countries = array(
-//     "Eg" => "Egypt",
-//     "SA" => "Saudi Arabia",
-//     "QA" => "Qatar",
-//     "BA" => "Bahrain",
-//     "SY" => "Syria",
-//     "SU" => "Sudan",
-//     "PA" => "Palestine",
-// );
-// foreach ($countries as $key => $value ) {
-//     echo $key ". $value . "<br>";
-
 ?>
