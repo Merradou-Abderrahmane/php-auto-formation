@@ -1,4 +1,4 @@
-## The following are case-insensitive in PHP:
+# The following are case-insensitive in PHP:
 
 ### PHP constructs such as : if, if-else, if-elseif, switch, while, do-while, etc.
 ### Keywords such as true and false.
@@ -12,7 +12,7 @@
 
 
 
-## Whitespace & line breaks
+# Whitespace & line breaks
 ### In most cases, whitespace and line breaks don’t have special meaning in PHP. Therefore, you can place a statement in one line or span it across multiple lines. For example, the following code snippets are equivalent: 
 ### login( $username, $password );
 
@@ -23,8 +23,7 @@
   ### $password
   ### );
 
-
-## Summary
+ Summary
 ### PHP is partially case-sensitive.
 ### PHP constructs, function names, class names are case-insensitive, whereas variables are case-sensitive.
 ### A statement ends with a semicolon (;).
