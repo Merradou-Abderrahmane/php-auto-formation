@@ -23,7 +23,7 @@
   ### $password
   ### );
 
- Summary
+# Summary
 ### PHP is partially case-sensitive.
 ### PHP constructs, function names, class names are case-insensitive, whereas variables are case-sensitive.
 ### A statement ends with a semicolon (;).
