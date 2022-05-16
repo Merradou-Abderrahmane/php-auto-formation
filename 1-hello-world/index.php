@@ -7,7 +7,7 @@
     <title>hello world</title>
 </head>
 <body>
-
+<!-- If you mix PHP code with HTML, you need to have the enclosing tag: ?> -->
 <h1><?php echo 'Hello World!'; ?></h1>
 
 
