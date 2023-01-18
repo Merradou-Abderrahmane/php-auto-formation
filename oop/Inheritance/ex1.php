@@ -9,7 +9,8 @@
 // and properties of the parent class.
 // The child class can also call the methods and properties of the parent class using the parent keyword.
 // The extends keyword is used to create a child class.
-
+// the final keyword can be used to prevent class inheritance or to prevent method overriding 
+// to use it just add it before the class or the function name
 // The following example shows how to create a child class that inherits the public and protected methods and properties of the parent class: ( dont comment it)
 
 class Car
